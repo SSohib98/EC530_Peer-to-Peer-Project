@@ -19,14 +19,17 @@ Guide to running this P2P system:
     - Open a terminal and navigate to your project folder by running: cd "INSERT FILE PATH HERE"
     - Run: python server_connection.py
 
-2. Setting upthe client connection
+2. Setting up the client connection
     - Open a new terminal and navigate to the same directory.
+    - Run: python client_connection.py
+    - Open a second client connection terminal.
     - Run: python client_connection.py
 
 3. Start Messaging
-    - The client terminal will display: Enter your username
+    - The client terminals will display: Enter your username
     - Enter any name and being chatting!
 
 ---
 
-Please take a look at the example screenshot to see a working example of the chat system. 
+Please take a look at the example screenshots to see a working example of the chat system. 
+ENJOY!
