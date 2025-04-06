@@ -10,3 +10,19 @@ The function and features of this system are:
 - Timestamps shown to all messages.
 - The SQLite database logs all chat messages.
 
+---------------------------------------------------------------
+Guide to running this P2P system:
+
+* You will need to have python3 installed, SQLite3 (built-in with python), and any terminal access *
+---
+1. Setting up the Server
+    - Open a terminal and navigate to your project folder by running: cd "INSERT FILE PATH HERE"
+    - Run: python server_connection.py
+
+2. Setting upthe client connection
+    - Open a new terminal and navigate to the same directory.
+    - Run: python client_connection.py
+
+3. Start Messaging
+    - The client terminal will display: Enter your username
+    - Enter any name and being chatting!
